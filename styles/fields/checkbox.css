@@ -6,7 +6,7 @@
 
   & strong {
     font-weight: 500;
-    color: var(--stroke-highlight);
+    color: var(--text-highlight);
   }
 }
 
